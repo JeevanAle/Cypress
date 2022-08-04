@@ -1,0 +1,21 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "description": "Cypress Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "open":"npx cypress open"
+  }, 
+  "keywords": [
+    "e2e",
+    "test",
+    "cypress",
+    "automation"
+  ],
+  "author": "jeevan",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.4.0"
+  }
+}
